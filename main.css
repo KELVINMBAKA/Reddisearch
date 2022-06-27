@@ -8,7 +8,7 @@
    body {
     font-family: cursive;
     
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('mittermeier.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('img/mittermeier.jpg');
    }
    a {
     text-decoration: none;
@@ -37,11 +37,7 @@
         gap: 1em;
         font-size: 18px;
        }
-       .menu li:hover {
-        background-color: #4c9e9e;
-        border-radius: 5px;
-        transition: 0.3s ease;
-       }
+      
        .menu li {
         padding: 5px 14px;
        }
